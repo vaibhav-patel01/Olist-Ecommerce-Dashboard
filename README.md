@@ -13,7 +13,7 @@ The solution leverages **MS SQL Server** as the primary data warehouse, uses **P
 ### 🛠️ Tech Stack & Workflow
 
 * **Data Source:** Microsoft SQL Server (Raw Data)
-* **ETL & Analysis:** Python (Pandas, SQL Alchemy/PyODBC), Jupyter Notebook
+* **ETL & Analysis:** Python (Pandas, PyODBC), Jupyter Notebook
 * **Visualization:** Microsoft Power BI
 * **Data Modeling:** Star Schema
 
